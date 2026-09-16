@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Core/Core.vcxproj" Id="f87f3093-ac65-404d-a5b9-88920f464de1" />
+  <Project Path="MainApp/MainApp.vcxproj" Id="c864617c-c8c9-442f-94f0-381f5d604572" />
+  <Project Path="RendererDX11/RendererDX11.vcxproj" Id="5762d465-6273-4be9-b2fb-e9d57a0269bf" />
+  <Project Path="RendererDX12/RendererDX12.vcxproj" Id="abfd4234-073c-464a-b9e0-71754fb6650e" />
+  <Project Path="ThirdParty/ImGui/ImGui.vcxproj" Id="4a8fb84e-6b01-47f6-b3b8-a6b22243af36" />
+</Solution>
